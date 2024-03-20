@@ -1,4 +1,6 @@
-This is 
+# E-Commerce Application
+
+This is a simple ecommerce application which is built with microservices architechture pattern. 
 ### Spring Cloud Dependencies:
 This project utilizes Spring Cloud dependencies such as Feign clients, API gateways, and Eureka server for service discovery and communication management within a microservices architecture.
 
@@ -6,6 +8,8 @@ This project utilizes Spring Cloud dependencies such as Feign clients, API gatew
 Feign clients are employed for internal communication between services, facilitating seamless interaction and data exchange within the microservices ecosystem. RabbitMQ queues are utilized for both synchronous and asynchronous communication, ensuring efficient message handling and delivery.
 ![image](https://github.com/narottamaswal/e_commerce_microservice/assets/65083220/f118f69f-cd96-4137-88c1-36d043011ba4)
 
+### UI:
+![Screenshot 2024-03-16 221025](https://github.com/narottamaswal/e_commerce_microservice/assets/65083220/da68ccc5-eb1b-42b2-89d7-776bf950340d)
 
 ## Application Services 
 
